@@ -1,1 +1,1 @@
-# Asteroids
+This project uses JavaScript and HTML5 Canvas to create a browser-based game. In this exciting new 2D space shooter, players take control of a dynamic red spaceship and engage in intense combat by firing projectiles to destroy approaching asteroids. Users can have a fun and interesting gaming experience because to the rich graphics and dynamic gameplay.
